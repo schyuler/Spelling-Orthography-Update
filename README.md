@@ -15,3 +15,4 @@ Finally, exploring machine learning methods for updating the orthography may ope
 - Importing a small set of manually created sample pairs for our training set
 - Training, tuning and evaluating different machine-learning models. (Specifics will be added later)
 - An updated word list, and the results exported as a .CSV file
+- An updated text of the 1908 Chamorro Bible
